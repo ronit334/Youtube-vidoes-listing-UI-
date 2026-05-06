@@ -1,0 +1,14 @@
+iframe{
+    width: 348px;
+    height: 230px;
+    border-radius: 20px;
+}
+li{
+    width: fit-content;
+    height: fit-content;
+}
+ul{
+    width: fit-content;
+    padding: 13px;
+    list-style-type: none;
+}
